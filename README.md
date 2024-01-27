@@ -1,5 +1,5 @@
 # Machine_Vision
-Weekly practical lab for UCL COMP0137 Machine Vision
+Weekly practical lab for UCL Machine Vision module
 
 ------
 ## Topics Covered
